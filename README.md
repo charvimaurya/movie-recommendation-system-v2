@@ -6,7 +6,7 @@ This project is a **Movie Recommendation System** built using **Streamlit** and 
 
 The model is trained using a dataset of 5000 movies from **The Movie Database (TMDb)**, which includes movie titles, genres, and other metadata. 
 
-You can interact with the live version of the system here: [Movie Recommendation System - Streamlit App](https://movie-recommendation-system-h3g77ainsgbabrawzp2x52.streamlit.app/).
+You can interact with the live version of the system here: [Movie Recommendation System - Streamlit App](https://movie-recommendation-system-v2-fempxquztb4rqiejnxcgpf.streamlit.app/).
 
 ---
 
